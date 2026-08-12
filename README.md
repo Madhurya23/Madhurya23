@@ -1,4 +1,4 @@
-# Hi 👋, I'm Madhurya
+# Hi 👋 I'm Madhurya
 
 Usually building something, occasionally breaking it, always convinced I can fix it.
 
