@@ -6,10 +6,9 @@ I’m a Computer Science graduate with an interest in software development, prob
 
 ## About Me
 
-- 💻 Interested in software development and building practical applications
-- 🧩 Enjoy solving problems and understanding how things work
-- 📚 Continuously improving my skills in programming and modern development technologies
-- 🚀 Exploring opportunities to turn ideas into well-designed, useful software
+- 💻 Interested in software development and practical applications
+- 🧠 Exploring AI, machine learning, and computer vision
+- 📚 Continuously strengthening my programming and problem-solving skills
 
 ## Tech Stack
 
