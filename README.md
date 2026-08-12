@@ -1,38 +1,31 @@
 # Hi 👋, I'm Madhurya
 
-### Computer Science Engineer | Software Development
+> Usually building something, occasionally breaking it, always convinced I can fix it.
 
-I’m a Computer Science graduate with an interest in software development, problem-solving, and building practical applications. I enjoy turning ideas into clean, functional solutions while continuously strengthening my technical foundation.
+### Computer Science Engineer | Software Development
 
 ## About Me
 
-- 💻 Interested in software development and practical applications
-- 🧠 Exploring AI, machine learning, and computer vision
-- 📚 Continuously strengthening my programming and problem-solving skills
+* 🎓 Computer Science graduate interested in software development and problem-solving
+* 💻 Enjoy turning ideas into clean, functional solutions
+* 🧠 Exploring AI, machine learning, and computer vision
+* 📚 Continuously strengthening my programming and technical foundation
 
 ## Tech Stack
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,js)
-
 **Web Development**
-
-![Web Development](https://skillicons.dev/icons?i=html,css,react,flask)
 
 **AI / Machine Learning**
 
-![AI / Machine Learning](https://skillicons.dev/icons?i=tensorflow,opencv)
-
 **Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github)
 
 ## Currently
 
-- Strengthening my foundations in software development and problem-solving
-- Exploring AI and computer vision through practical applications
-- Building and refining projects across software and web development
+* Strengthening my foundations in software development and problem-solving
+* Exploring AI and computer vision through practical applications
+* Building and refining projects across software and web development
 
 ## Connect With Me
 
