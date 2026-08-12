@@ -1,6 +1,6 @@
 # Hi 👋, I'm Madhurya
 
-> Usually building something, occasionally breaking it, always convinced I can fix it.
+Usually building something, occasionally breaking it, always convinced I can fix it.
 
 ### Computer Science Engineer | Software Development
 
