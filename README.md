@@ -15,11 +15,19 @@
 
 **Languages**
 
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,js)
+
 **Web Development**
+
+![Web Development](https://skillicons.dev/icons?i=html,css,react,flask)
 
 **AI / Machine Learning**
 
+![AI / Machine Learning](https://skillicons.dev/icons?i=tensorflow,opencv)
+
 **Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github)
 
 ## Currently
 
